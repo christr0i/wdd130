@@ -188,6 +188,7 @@ main section img{
     margin: 200px 0;
     grid-column: 2/4;
     grid-row: 2/3;
+    opacity: .99;
 }
 .camping-card {
     grid-column: 5/7;
