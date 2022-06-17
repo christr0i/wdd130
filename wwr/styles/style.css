@@ -83,7 +83,7 @@ nav a:hover {
 }
 .book, .join {
     background-color: antiquewhite;
-    color: beige;
+    color: lightcoral;
     text-decoration: none;
     padding: 15px 30px;
     font-family: 'Bebas Neue', 'Open Sans', sans-serif;
@@ -92,7 +92,7 @@ nav a:hover {
     border-radius: 5px;
 }
 .book:hover, .join:hover {
-    background-color: antiquewhite;
+    background-color: darkkhaki;
     color: burlywood;
 }
 #background {
@@ -107,7 +107,7 @@ footer {
     align-items: center;
 }
 .home-title {
-    color: beige;
+    color: lightsalmon;
     margin-top: 10px;
 }
 h4 {
